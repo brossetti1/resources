@@ -55,6 +55,10 @@ resources
 - [Gwei.io](https://gwei.io/) - gwei converter at the bottom; useful when calculating gas (other good links to topics)
 - [token approval checker](https://etherscan.io/tokenapprovalchecker) - viewing/editing token approvals
 
+# Code Schools
+[Chainshot](https://www.chainshot.com/) - remote code school for solidity
+[Consensys Academy](https://consensys.net/academy/) - code school for solidity
+
 # gaming projects
 - [Illuvium](https://www.illuvium.io/)
 - [Decentraland](https://decentraland.org/)
