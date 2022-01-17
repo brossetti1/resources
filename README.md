@@ -87,3 +87,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 - [IPFS](https://ipfs.io/)
 - [Arweave](https://www.arweave.org/)
+- [Swarm]()
+
+## Papers
+- [ultimate-defi-research](https://github.com/OffcierCia/ultimate-defi-research-base) - large resource of papers
