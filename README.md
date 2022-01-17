@@ -21,7 +21,8 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 ## Live Info
 
-- [Gas Tracker](https://etherscan.io/gastracker)- see gas consumers and current gas prices
+- [Gas Tracker](https://etherscan.io/gastracker) - see gas consumers and current gas prices
+- [Gas Tracker by day](https://ethereumprice.org/gas/) - different view of gas metrics; per day gas price averages heat map
 - [Ultrasound Money](https://ultrasound.money/) - great info; trick to see real time gas consumption - click on 5min time frame, see burn leaderboard for active contracts right now. Great stats overall
 - [Token Terminal](https://www.tokenterminal.com/) - traditional financial analysis on web3 projects
 - [Eth 2.0 Beacon Chain](https://beaconcha.in/) - eth 2.0 staking stats
