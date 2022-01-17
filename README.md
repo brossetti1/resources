@@ -1,8 +1,6 @@
 # Resources
 
-resources for transitioning to web3
-
-resources
+public repo of resources for transitioning to web3. Feel free to open an issue to suggest your favorites.
 
 # Standard Docs
 
