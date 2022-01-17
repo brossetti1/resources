@@ -34,32 +34,48 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Tx Street](https://txstreet.com/) - live vizualization and comparison on blockchains - really fun app - first place I go to show people what the blockchain looks like and explain the differences between them.
 - [Flashbots](https://explore.flashbots.net/) - MEV (Miner Extractable Value) explorer from flashbots community
 - [Dune Analytics](https://dune.xyz/browse/dashboards)- dashboards for project stats
+- [Defillama](https://defillama.com/) - defi stats and other useful dashboards
+- [Useful Dune Dashboards](/resources/Dashboards.md) - useful dashboards
 
 # Communities
+
 - [Eth Finance](https://www.reddit.com/r/ethfinance/) - reddit defi/eth community (not to be confused with /r/etheruem which is not the greatest of sources on reddit)
 - [Eth Dev](https://www.reddit.com/r/ethdev/) - reddit eth dev community
 - [Open Zepplin Docs](https://forum.openzeppelin.com/) - open zepplin forumn, great place for all your questions and skimming through previously answered questions on an assortment of topics.
 - [Ethereum Magicians](https://ethereum-magicians.org/) - this is where etheruem improvements are discussed and researched
 - [Ethereum Research](https://ethresear.ch/) - more eth research
 
-# governance
+# Governance
+
 - [With Tally](https://www.withtally.com/) - aggregator of governance votes.
 - [Snapshot Labs](https://snapshot.org/#/) - platform for off chain governance votes (usually come before on chain votes)
 - [Open Orgs](https://openorgs.info/) - breakdown of web3 treassuries (might be a better source)
 
-# web tools
+# Web Tools
 - [Chainlist](https://chainlist.org/) - add networks to your metamask
+- [TokenList](https://tokenlists.org/) - get confirmable token list from different sources; confirmed token addresses by owner
 - [Hashing Tools (Keccack256)](https://emn178.github.io/online-tools/keccak_256.html) - quickly run kecack256 to get method signatures
 - [Gwei.io](https://gwei.io/) - gwei converter at the bottom; useful when calculating gas (other good links to topics)
 - [token approval checker](https://etherscan.io/tokenapprovalchecker) - viewing/editing token approvals
+- [Multi Faucet](https://faucet.paradigm.xyz/) - test network faucet aggregator
+- [Eth Vanity](https://vanity-eth.tk/) - generate an address
+- [Input Data Decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
+- [fees.wtf](https://fees.wtf/#/)
 
 # Code Schools
+
 [Chainshot](https://www.chainshot.com/) - remote code school for solidity
 [Consensys Academy](https://consensys.net/academy/) - code school for solidity
 
-# gaming projects
+# Gaming
+
 - [Illuvium](https://www.illuvium.io/)
 - [Decentraland](https://decentraland.org/)
 - [Enjin](https://enjin.io/)
 - [Axie Infinity](https://axieinfinity.com/)
 - [Sandbox](https://www.sandbox.game/)
+
+# Decentralized File Storage
+
+- [IPFS](https://ipfs.io/)
+- [Arweave](https://www.arweave.org/)
