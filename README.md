@@ -10,17 +10,14 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [ethersjs](https://docs.ethers.io/v5/) - base library for working with web3
 - [EIPS](https://eips.ethereum.org/EIPS) - Ethereum Improvement proposals - standard implementations and improvements for ethereum (ill try to ping people for the most useful eips to understand - openzepplin will also have good references for EIPS)
 
-## Example References
-
-- [solidity by example](https://solidity-by-example.org/) - solidity patterns
-- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
-
-## great code references
+## Code References
 
 - [uniswap](https://github.com/Uniswap) - largely known as some of the best code structures and programmers in the space - although their code is quiet technical.
 - [ENS](https://github.com/ensdomains) - again, some of the best programmers in the space
 - [nouns.wtf](https://github.com/nounsDAO/) - svg nft framework - in my opinion, their code is super clean and you can see an entire web3 app and how it implemented by tracking through their packages.
 - [Eth Scaffold](https://github.com/scaffold-eth/scaffold-eth) - large community working on example projects for the space to fork and run with - see branches for all examples - i like their project structure but their code is scattered at times. great community to join and get mentorship and build quickly.
+- [solidity by example](https://solidity-by-example.org/) - solidity patterns
+- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
 
 ## Live Info
 
@@ -74,8 +71,8 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 ## Code Schools
 
-[Chainshot](https://www.chainshot.com/) - remote code school for solidity
-[Consensys Academy](https://consensys.net/academy/) - code school for solidity
+- [Chainshot](https://www.chainshot.com/) - remote code school for solidity
+- [Consensys Academy](https://consensys.net/academy/) - code school for solidity
 
 ## Gaming
 
