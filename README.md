@@ -14,7 +14,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 - [uniswap](https://github.com/Uniswap) - largely known as some of the best code structures and programmers in the space - although their code is quiet technical.
 - [ENS](https://github.com/ensdomains) - again, some of the best programmers in the space
-- [nouns.wtf](https://github.com/nounsDAO/) - svg nft framework - in my opinion, their code is super clean and you can see an entire web3 app and how it implemented by tracking through their packages.
+- [nouns.wtf](https://github.com/nounsDAO/) - on chain svg nft framework - in my opinion, their code is super clean and you can see an entire web3 app and how it implemented by tracking through their packages.
 - [Eth Scaffold](https://github.com/scaffold-eth/scaffold-eth) - large community working on example projects for the space to fork and run with - see branches for all examples - i like their project structure but their code is scattered at times. great community to join and get mentorship and build quickly.
 - [solidity by example](https://solidity-by-example.org/) - solidity patterns
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
@@ -49,9 +49,13 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 - [With Tally](https://www.withtally.com/) - aggregator of governance votes.
 - [Snapshot Labs](https://snapshot.org/#/) - platform for off chain governance votes (usually come before on chain votes)
-- [Open Orgs](https://openorgs.info/) - breakdown of web3 treassuries (might be a better source)
 
-## Web Tools
+## Treassuries
+
+- [Deep Dao](https://deepdao.io/organizations) - great dashboard on treasury assets
+- [Open Orgs](https://openorgs.info/) - breakdown of web3 treassuries
+
+## Web 3 Tools
 
 - [Chainlist](https://chainlist.org/) - add networks to your metamask
 - [TokenList](https://tokenlists.org/) - get confirmable token list from different sources; confirmed token addresses by owner
@@ -62,6 +66,19 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Eth Vanity](https://vanity-eth.tk/) - generate an address
 - [Input Data Decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
 - [fees.wtf](https://fees.wtf/#/)
+- [BIP32 BIP44 BIP49 BIP84 BIP141](https://iancoleman.io/bip39/) - BIP32, BIP44, BIP49, BIP84, and BIP141 demo tools
+- [Solc binanaries](https://binaries.soliditylang.org/)
+- [Client Diversity](https://clientdiversity.org/) - shows the eth2 client diversity breakdown
+- [Gas Fee Calculator](https://www.cryptoneur.xyz/gas-fees-calculator) - gas fee calculator across chains
+
+## Web 2 tools
+- [JSON validator](https://jsonformatter.curiousconcept.com/) - json validation tool
+- [Tiny PNG](https://tinypng.com/) - image optimization
+- [Sqoosh](https://squoosh.app/) - image optimization (offline capabilities)
+- [Web Code Tools](https://webcode.tools/generators/json-ld/breadcrumb) - generators, css, html, seo, meta tags, JSON-LD
+- [Shadows](https://shadows.brumm.af/) - Box shadows tool by [@brumm](https://twitter.com/funkensturm)
+- [caniuse](http://caniuse.com/) - browser compatability for js web APIs
+- [namechk](https://namechk.com/) - check if social profile is taken or not.
 
 ## Audits
 
@@ -70,10 +87,12 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 
-## Code Schools
+## Code Schools & Education
 
 - [Chainshot](https://www.chainshot.com/) - remote code school for solidity
 - [Consensys Academy](https://consensys.net/academy/) - code school for solidity
+- [NFT School](https://nftschool.dev/)
+- [Web 3 University](https://www.web3.university/) -
 
 ## Gaming
 
@@ -88,7 +107,8 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 - [IPFS](https://ipfs.io/)
 - [Arweave](https://www.arweave.org/)
-- [Swarm]()
+- [Swarm](https://www.ethswarm.org/)
 
 ## Papers
+
 - [ultimate-defi-research](https://github.com/OffcierCia/ultimate-defi-research-base) - large resource of papers

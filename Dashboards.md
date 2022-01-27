@@ -1,4 +1,5 @@
 ### NFTs
+
 - [Dune Analytics: opensea](https://dune.xyz/rchen8/opensea)
 - [Dune Analytics: rarible](https://dune.xyz/alexfal/rarible)
 - [Dune Analytics: Art-Blocks](https://dune.xyz/rantum/Art-Blocks)
@@ -6,6 +7,7 @@
 - [Dune Analytics: Art-Blocks-curated-overview](https://dune.xyz/rantum/Art-Blocks-curated-overview)
 
 ### DEFI
+
 - [Dune Analytics: Olympus-(OHM)](https://dune.xyz/shadow/Olympus-(OHM))
 - [Dune Analytics: maker---accounting_1](https://dune.xyz/SebVentures/maker---accounting_1)
 - [Dune Analytics: dex-metrics](https://dune.xyz/hagaetc/dex-metrics)
@@ -34,11 +36,29 @@
 - [Dune Analytics: maker-dao---mcd](https://dune.xyz/hagaetc/maker-dao---mcd)
 
 ### Stable Coins
+
 - [Dune Analytics: stablecoins](https://dune.xyz/hagaetc/stablecoins)
 - [Dune Analytics: stablecoin-users-trend](https://dune.xyz/johaya/stablecoin-users-trend)
 
 ### BTC
+
 - [Dune Analytics: btc-on-ethereum_1](https://dune.xyz/eliasimos/btc-on-ethereum_1)
 
 ### Miscellaneous
+
 - [Dune Analytics: gas-prices](https://dune.xyz/kroeger0x/gas-prices)
+
+### Blockchain Papers
+
+- [Analysis of EIP1559](https://arxiv.org/pdf/2201.05574.pdf)
+
+### Twitter Threads
+
+[Top Gas Consumers 2021](https://twitter.com/ASvanevik/status/1480077502659719168)
+[The effect of EIP-1559 visualised](https://twitter.com/tokenterminal/status/1481304683750825988)
+
+### Ethereum
+
+[Ethereum Fundamental Value Model (FVM)](https://www.coinstack.co/ethvalue) - follow up
+[Ethereum Transaction Value Model (TVM)](https://www.coinstack.co/ethvalue) - follow up
+[DCF valuation of Ethereum Ryan Allis](https://docs.google.com/spreadsheets/d/1_IqNzqm-_Jlk-cK4twQ-bzhJKrsOhrckdQA2isTwKRA/edit#gid=940302222) - follow up
