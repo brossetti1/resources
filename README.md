@@ -70,6 +70,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Solc binanaries](https://binaries.soliditylang.org/)
 - [Client Diversity](https://clientdiversity.org/) - shows the eth2 client diversity breakdown
 - [Gas Fee Calculator](https://www.cryptoneur.xyz/gas-fees-calculator) - gas fee calculator across chains
+- [defi dividends](https://defidividends.com/tools) - tools for defi
 
 ## Web 2 tools
 - [JSON validator](https://jsonformatter.curiousconcept.com/) - json validation tool
@@ -79,6 +80,15 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Shadows](https://shadows.brumm.af/) - Box shadows tool by [@brumm](https://twitter.com/funkensturm)
 - [caniuse](http://caniuse.com/) - browser compatability for js web APIs
 - [namechk](https://namechk.com/) - check if social profile is taken or not.
+- [state of js](https://2020.stateofjs.com/en-US/) - 2020 state of js - stats on libraries, languages, and frameworks from real surveys on the dev experience
+- [carbon screen capture](https://carbon.now.sh/) - screen capture tool for code
+- [RayCast](https://ray.so/) - fancy screen capture tool for code
+- [FontSource](https://fontsource.org/) - get imports for font files
+
+## Web 2 blogs
+- [alistapart](https://alistapart.com/topics/) - html, javascript, css blog
+- [CSS Tricks](https://css-tricks.com/) - best resource for combining CSS and javascript
+- [dev.to](https://dev.to/) - another aggregate blog on web dev
 
 ## Audits
 

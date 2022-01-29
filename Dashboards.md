@@ -34,6 +34,8 @@
 - [Dune Analytics: xDai-Usage](https://dune.xyz/maxaleks/xDai-Usage)
 - [Dune Analytics: Compounding-in-xDai-bridges](https://dune.xyz/maxaleks/Compounding-in-xDai-bridges)
 - [Dune Analytics: maker-dao---mcd](https://dune.xyz/hagaetc/maker-dao---mcd)
+- [daocvx](https://daocvx.com/) - breakdown of CVX token
+- [Redacted Treassury](https://zapper.fi/bundle/0xa52fd396891e7a74b641a2cb1a6999fcf56b077e%2C0x086c98855df3c78c6b481b6e1d47bef42e9ac36b?label=REDACTED+Treasury&id=0x8724a43b61cc55ad8e976e8d6ef5f5a6433bad18&addresses=0xa52fd396891e7a74b641a2cb1a6999fcf56b077e%2C0x086c98855df3c78c6b481b6e1d47bef42e9ac36b) - zapper view of redacted treassury
 
 ### Stable Coins
 
@@ -62,3 +64,7 @@
 [Ethereum Fundamental Value Model (FVM)](https://www.coinstack.co/ethvalue) - follow up
 [Ethereum Transaction Value Model (TVM)](https://www.coinstack.co/ethvalue) - follow up
 [DCF valuation of Ethereum Ryan Allis](https://docs.google.com/spreadsheets/d/1_IqNzqm-_Jlk-cK4twQ-bzhJKrsOhrckdQA2isTwKRA/edit#gid=940302222) - follow up
+
+
+### L2
+[Dune Analytics - Optimism] - https://dune.xyz/Marcov/Optimism-Ethereum
