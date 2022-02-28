@@ -55,6 +55,9 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Deep Dao](https://deepdao.io/organizations) - great dashboard on treasury assets
 - [Open Orgs](https://openorgs.info/) - breakdown of web3 treassuries
 
+## Web 3 Blogs
+- [bankless Dao](https://www.bankless.community/) - 
+
 ## Web 3 Tools
 
 - [Chainlist](https://chainlist.org/) - add networks to your metamask
@@ -71,6 +74,20 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Client Diversity](https://clientdiversity.org/) - shows the eth2 client diversity breakdown
 - [Gas Fee Calculator](https://www.cryptoneur.xyz/gas-fees-calculator) - gas fee calculator across chains
 - [defi dividends](https://defidividends.com/tools) - tools for defi
+- [PAC](https://www.pac.xyz/) - on chain voting of politicans support of blockchain
+- [llama airforce](https://llama.airforce/#/curve/pools) - curve pools breakdown
+- [4vyte](https://www.4byte.directory/) - directory of function signatures
+- [ethereumjs-utils](https://github.com/ethereumjs/ethereumjs-util) - lots of helpfers for ethereum based js
+- [token assets](https://github.com/trustwallet/assets) - list of coins, logos, assets, etc
+- [site for token assets](https://assets.trustwallet.com/) - site for displaying data from #token-assets
+- [usecannon](https://usecannon.com/) - hardhat-plugin for deployments
+- [dust sweeper](https://www.dustsweeper.xyz/) - wallet hygine
+- [blocksnap](https://blocksnap.xyz/) - on chain snapshots made easy, [github-link](https://github.com/jaydenwindle/blocksnap)
+- [studio-721](https://www.721.so/) - nft generator by filecoin
+- [govrn](https://medium.com/govrn) - dao tooling for recognition of work
+- [mirror](https://mirror.xyz/) - web3 blogging, crowdfunding
+- [bitflip](https://www.bitfl1p.com/) - resource for describing bitflipping (when a bit in memory flips it's value)
+- [useweb3](https://www.useweb3.xyz/) - web3 resources for developers
 
 ## Web 2 tools
 - [JSON validator](https://jsonformatter.curiousconcept.com/) - json validation tool
