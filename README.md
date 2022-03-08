@@ -76,7 +76,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [defi dividends](https://defidividends.com/tools) - tools for defi
 - [PAC](https://www.pac.xyz/) - on chain voting of politicans support of blockchain
 - [llama airforce](https://llama.airforce/#/curve/pools) - curve pools breakdown
-- [4vyte](https://www.4byte.directory/) - directory of function signatures
+- [4byte](https://www.4byte.directory/) - directory of function signatures
 - [ethereumjs-utils](https://github.com/ethereumjs/ethereumjs-util) - lots of helpfers for ethereum based js
 - [token assets](https://github.com/trustwallet/assets) - list of coins, logos, assets, etc
 - [site for token assets](https://assets.trustwallet.com/) - site for displaying data from #token-assets
