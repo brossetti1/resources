@@ -86,8 +86,9 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [studio-721](https://www.721.so/) - nft generator by filecoin
 - [govrn](https://medium.com/govrn) - dao tooling for recognition of work
 - [mirror](https://mirror.xyz/) - web3 blogging, crowdfunding
-- [bitflip](https://www.bitfl1p.com/) - resource for describing bitflipping (when a bit in memory flips it's value)
 - [useweb3](https://www.useweb3.xyz/) - web3 resources for developers
+- [ethsplainer](https://github.com/solipsis/ethsplainer) - great tool for explaining compiled data
+- [UBI Burner](https://ubiburner.com/) - burn.ubi.eth - burn address for ubi - send eth to burn ubi.
 
 ## Web 2 tools
 - [JSON validator](https://jsonformatter.curiousconcept.com/) - json validation tool
@@ -101,6 +102,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [carbon screen capture](https://carbon.now.sh/) - screen capture tool for code
 - [RayCast](https://ray.so/) - fancy screen capture tool for code
 - [FontSource](https://fontsource.org/) - get imports for font files
+- [milanote](https://milanote.com/templates/brainstorming/flow-chart) - diagraming, architecture mapping, flow chartting
 
 ## Web 2 blogs
 - [alistapart](https://alistapart.com/topics/) - html, javascript, css blog

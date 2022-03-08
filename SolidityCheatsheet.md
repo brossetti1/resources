@@ -157,10 +157,10 @@ hex             | Hexidecimal Literal  |                                      |
 uint[3]         | Array Literal        |                                      |          
 x[start:end]    | Array Slice          |                                      |          
 Enum            | Enum                 |                                      |          
-uint8           | Unsigned Integer     |                                      |                   
-uint16          | Unsigned Integer     |                                      |                  
-uint32          | Unsigned Integer     |                                      |                  
-uint64          | Unsigned Integer     |                                      |                  
+uint8           | Unsigned Integer     | 0-255                                |                   
+uint16          | Unsigned Integer     | 0-65535                              |                  
+uint32          | Unsigned Integer     | 0-4.294967295 * 10**9                |                  
+uint64          | Unsigned Integer     | 0-18.446744073709551614 * 10**18     |                  
 uint128         | Unsigned Integer     |                                      |                  
 uint256(uint)   | Unsigned Integer     |                                      |                  
 int8            | Signed Integer       |                                      |                
