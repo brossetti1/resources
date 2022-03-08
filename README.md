@@ -109,6 +109,9 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [CSS Tricks](https://css-tricks.com/) - best resource for combining CSS and javascript
 - [dev.to](https://dev.to/) - another aggregate blog on web dev
 
+## Explainers
+- [bytes and bits](https://web.stanford.edu/class/cs101/bits-bytes.html) - learning resource for bytes and bits
+
 ## Audits
 
 - [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
