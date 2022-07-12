@@ -9,6 +9,7 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [Open Zepplin](https://openzeppelin.com/) - openzepplin creates a lot of patterns that are safe to use - gold standard for alot of contracts, I find reading the code in their repo is much more revealing than reading their docs; reading both is preferred.
 - [ethersjs](https://docs.ethers.io/v5/) - base library for working with web3
 - [EIPS](https://eips.ethereum.org/EIPS) - Ethereum Improvement proposals - standard implementations and improvements for ethereum (ill try to ping people for the most useful eips to understand - openzepplin will also have good references for EIPS)
+- [CAIPs](https://github.com/ChainAgnostic/CAIPs) - chain agnostic improvement proposals
 
 ## Code References
 
@@ -57,9 +58,15 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 
 ## Web 3 Blogs
 - [bankless Dao](https://www.bankless.community/) - 
+- [the governance library - by rabbithole](https://rabbithole-gg.notion.site/The-Governance-Library-d337b94b650d4874a32a8f40fa29247b?p=d1996f53aef5430e8e001e8284898bc1)
+
+## Web 3 Security
+- [certora](https://www.certora.com/) - Certora provides security analysis tools for Smart Contracts - provides unique Prover Technology capable of checking at compile-time that all executions of a Smart Contract fulfill a set of security rules.
+- [Open Zepplin Defender](https://openzeppelin.com/defender/) - Automate smart contract operations to deliver high-quality products with lower risk
+- [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security)
+
 
 ## Web 3 Tools
-
 - [Chainlist](https://chainlist.org/) - add networks to your metamask
 - [TokenList](https://tokenlists.org/) - get confirmable token list from different sources; confirmed token addresses by owner
 - [Hashing Tools (Keccack256)](https://emn178.github.io/online-tools/keccak_256.html) - quickly run kecack256 to get method signatures
@@ -89,6 +96,10 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [useweb3](https://www.useweb3.xyz/) - web3 resources for developers
 - [ethsplainer](https://github.com/solipsis/ethsplainer) - great tool for explaining compiled data
 - [UBI Burner](https://ubiburner.com/) - burn.ubi.eth - burn address for ubi - send eth to burn ubi.
+- [eth leaderboard](https://ethleaderboard.xyz/) - twitter and .eth address stats
+- [sismo](https://www.sismo.io/) - Sismo issues ZK badges for reputation aggregation and privacy preserving access control.
+- [masterpiece.so](https://masterpiece.so/) - great site for breaking down nfts
+- [Hashex](https://abi.hashex.org/) - Online ABI Encoding Service
 
 ## Web 2 tools
 - [JSON validator](https://jsonformatter.curiousconcept.com/) - json validation tool
@@ -103,11 +114,14 @@ public repo of resources for transitioning to web3. Feel free to open an issue t
 - [RayCast](https://ray.so/) - fancy screen capture tool for code
 - [FontSource](https://fontsource.org/) - get imports for font files
 - [milanote](https://milanote.com/templates/brainstorming/flow-chart) - diagraming, architecture mapping, flow chartting
+- [fffuel](https://fffuel.co/) - fffuel is a collection of free SVG generators for gradients, patterns, backgrounds & decorative graphics
+- [shields up - Gibson Research - Steve Gibson Security Now](https://www.grc.com/x/ne.dll?bh0bkyd2) - check the security of your computer and internet connections
 
 ## Web 2 blogs
 - [alistapart](https://alistapart.com/topics/) - html, javascript, css blog
 - [CSS Tricks](https://css-tricks.com/) - best resource for combining CSS and javascript
 - [dev.to](https://dev.to/) - another aggregate blog on web dev
+- [devopsjournal](https://devopsjournal.io/blog/) - 
 
 ## Explainers
 - [bytes and bits](https://web.stanford.edu/class/cs101/bits-bytes.html) - learning resource for bytes and bits

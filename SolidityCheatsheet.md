@@ -159,9 +159,9 @@ x[start:end]    | Array Slice          |                                      |
 Enum            | Enum                 |                                      |          
 uint8           | Unsigned Integer     | 0-255                                |                   
 uint16          | Unsigned Integer     | 0-65535                              |                  
-uint32          | Unsigned Integer     | 0-4.294967295 * 10**9                |                  
-uint64          | Unsigned Integer     | 0-18.446744073709551614 * 10**18     |                  
-uint128         | Unsigned Integer     |                                      |                  
+uint32          | Unsigned Integer     | 0-4294967295                         |                  
+uint64          | Unsigned Integer     | 0-18446744073709551614               |                  
+uint128         | Unsigned Integer     | 0-340,282,366,920,938,463,463,374,607,431,768,211,455                                     |                  
 uint256(uint)   | Unsigned Integer     |                                      |                  
 int8            | Signed Integer       |                                      |                
 int16           | Signed Integer       |                                      |                
